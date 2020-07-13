@@ -1,0 +1,6 @@
+       user      system     elapsed 
+11267366.81      171.16   659605.62 
+min_loss: 0.0005743872 
+min_loss_par: 6.258058e-05 0.00168274 2.876263 8.288488 0.5908131 12.00581 37.04781 
+Number of optimization performed: 63 
+Number of unconverged optimization: 0 
