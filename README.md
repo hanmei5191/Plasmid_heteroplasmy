@@ -5,4 +5,4 @@ Genome Biology and Evolution, Volume 11, Issue 10, October 2019, Pages 3022–30
 
 This repo contains the codes used to generate the figures and the supplementary figures described in the published paper. 
 
-![](Figure_1/Figure_1.pdf)
+![](Figure_1/Figure_1.png)
